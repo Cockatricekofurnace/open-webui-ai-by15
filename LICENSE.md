@@ -1,4 +1,4 @@
-# 
+# VIP Open WebUI plugins. Featuring user-friendly-interface and web-scraping — optimized for maximum performance and efficiency.
 
 
 
